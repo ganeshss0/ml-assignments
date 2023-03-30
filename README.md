@@ -1,2 +1,2 @@
-# ml-assignments
-This repository contains all all the Machine Learning Assingment from iNeuron.
+# Machine Learning Assignments
+This repository contains all the Machine Learning Assignments from iNeuron.
