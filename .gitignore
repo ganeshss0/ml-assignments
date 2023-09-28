@@ -1,1 +1,7 @@
 answer_templates.ipynb
+.noteablekeep
+*.vectorized_content
+__pycache__
+*.vectorized_metadata
+*.py[cod]
+.tmp/
